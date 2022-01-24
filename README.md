@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Computer Science and Engineering 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me [Mail](srikanthkandi444@gmail.com)
+- I am currently studying in [Lakireddy Bali reddy college of Engineering](https://lbrce.ac.in)
 
 <!---
 srikanth-kandi/srikanth-kandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
