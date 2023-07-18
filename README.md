@@ -3,7 +3,7 @@
 - 👀 I’m interested in Learning new languages and Improving my coding skills
 - 🌱 I’m currently learning Computer Science and Engineering 
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/srikanthkandi/)
+- 📫 How to reach me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/srikanthkandi/) / Mail to [srikanth.kandi@srikanthkandi.live](mailto:srikanth.kandi@srikanthkandi.live)
 - I am currently studying in [Lakireddy Bali Reddy College of Engineering](https://lbrce.ac.in) as a Computer Science student 👨‍💻
 <!---
 Srikanth-Kandi/Srikanth-Kandi is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
